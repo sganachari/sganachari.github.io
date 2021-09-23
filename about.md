@@ -3,11 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+Malware Researcher with 12 years of experience. Good at analyzing a given sample, identifying its capabilities. Worked on Signature/Content generation to detect malware belonging different types of families and file types including Windows PE, Adobe PDF, Adobe SWF, JavaScript, MSOffice etc., 
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
-
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Developed detection modules to detect malicious file belonging certain file-types (MS-Office,Script Host-Based JavaScript, VBScript, PowerShell).

@@ -21,8 +21,8 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: >
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+#tagline: >
+#hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: sravan.g@gmail.com # email for form submission
 

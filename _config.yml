@@ -5,6 +5,7 @@ description: > # Meta description of Homepage
   Blog on thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sganachari.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: Asia/Calcutta
 
 # SEO PLUGIN
 social:

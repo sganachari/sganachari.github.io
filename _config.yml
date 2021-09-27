@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 #tagline: >
-hero_img: posts/malware.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/malware.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: sravan.g@gmail.com # email for form submission
 
